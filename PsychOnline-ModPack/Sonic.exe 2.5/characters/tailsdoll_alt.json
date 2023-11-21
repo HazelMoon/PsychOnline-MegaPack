@@ -1,0 +1,161 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TailsDoll LEFT instance",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-164,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TailsDoll IDLE instance",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				73
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TailsDoll UP instance",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-153,
+				-211
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TailsDoll DOWN instance",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				35
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TailsDoll RIGHT instance",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tails_Doll_Alt",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "taildoll",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		155,
+		0
+	],
+	"camera_position": [
+		150,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrowSPACE0000" x="465" y="0" width="150" height="150"/>
+	<SubTexture name="space confirm0000" x="958" y="466" width="233" height="234"/>
+	<SubTexture name="space confirm0001" x="1191" y="466" width="205" height="206" frameX="-14" frameY="-14" frameWidth="233" frameHeight="234"/>
+	<SubTexture name="space confirm0002" x="1191" y="466" width="205" height="206" frameX="-14" frameY="-14" frameWidth="233" frameHeight="234"/>
+	<SubTexture name="space confirm0003" x="1191" y="466" width="205" height="206" frameX="-14" frameY="-14" frameWidth="233" frameHeight="234"/>
+	<SubTexture name="space confirm0004" x="1191" y="466" width="205" height="206" frameX="-14" frameY="-14" frameWidth="233" frameHeight="234"/>
+	<SubTexture name="space press0000" x="1396" y="466" width="150" height="150" frameX="-4" frameY="-4" frameWidth="158" frameHeight="159"/>
+	<SubTexture name="space press0001" x="1396" y="466" width="150" height="150" frameX="-4" frameY="-4" frameWidth="158" frameHeight="159"/>
+	<SubTexture name="space press0002" x="1546" y="466" width="158" height="159"/>
+	<SubTexture name="space press0003" x="1546" y="466" width="158" height="159"/>
+</TextureAtlas>

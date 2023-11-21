@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gfnormal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Not bad for a cat!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "See what did I tell ya, BF?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfwhat",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That literally means nothing"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sure. Lets just move on"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapimad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't expect me to go easy..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfnormal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep di bop"
+		}
+	]
+}

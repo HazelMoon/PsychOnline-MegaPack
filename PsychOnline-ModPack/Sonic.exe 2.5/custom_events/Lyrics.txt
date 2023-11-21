@@ -1,0 +1,5 @@
+Value1 = Lyrics
+to put a color, you have to write the text with the final
+"--0x" and the color parameter. For example:
+Text--0xFF0000.
+Value2 = timer,hide hud,lyrics fade time.

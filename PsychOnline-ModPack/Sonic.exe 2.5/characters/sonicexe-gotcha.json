@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "gotcha",
+			"fps": 24,
+			"name": "Gotcha",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Gotcha",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonicexe-gotcha",
+	"position": [
+		-190,
+		40
+	],
+	"healthicon": "sonicexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		85,
+		142
+	],
+	"camera_position": [
+		-10,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1460,
+				790
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "yourmother",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1461,
+				790
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "yourmother",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1410,
+				1050
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "yourmother",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1373,
+				1400
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "yourmother",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1445,
+				811
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "yourmother",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/deeznutz",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

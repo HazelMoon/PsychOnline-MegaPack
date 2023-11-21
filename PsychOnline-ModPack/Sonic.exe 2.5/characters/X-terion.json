@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "xterion_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "xterion_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "xterion_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				90
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "xterion_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "xterion_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/xterion",
+	"position": [
+		70,
+		400
+	],
+	"healthicon": "xterion",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		12,
+		96
+	],
+	"camera_position": [
+		-120,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 2.5
+}

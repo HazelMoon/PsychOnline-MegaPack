@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="waterfallbg.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="animation water0000" x="13" y="13" width="2196" height="315"/>
+	<SubTexture name="animation water0001" x="13" y="13" width="2196" height="315"/>
+	<SubTexture name="animation water0002" x="13" y="341" width="2196" height="315"/>
+	<SubTexture name="animation water0003" x="13" y="341" width="2196" height="315"/>
+	<SubTexture name="animation water0004" x="13" y="669" width="2196" height="315"/>
+	<SubTexture name="animation water0005" x="13" y="669" width="2196" height="315"/>
+	<SubTexture name="animation water0006" x="13" y="997" width="2196" height="315"/>
+	<SubTexture name="animation water0007" x="13" y="997" width="2196" height="315"/>
+</TextureAtlas>

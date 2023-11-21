@@ -1,0 +1,7 @@
+{
+	"name": "Sonic.exe 2.5 & 3.0",
+	"description": "A Port of Sonic.exe 2.5 for mods Folder",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [255, 0, 0]
+}

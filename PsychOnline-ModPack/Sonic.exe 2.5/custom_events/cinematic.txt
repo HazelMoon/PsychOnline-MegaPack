@@ -1,0 +1,7 @@
+Value 1 = enable,size of the borders,layer
+enable = true or false, default is'true'
+size of the borders = default is 115
+layer = the default is 'outher'
+notes follow = true or false,default is true
+Leave blank if you want to use default.
+Value 2 = duration,easing

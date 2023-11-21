@@ -1,0 +1,6 @@
+Value 1 = write "destroy" to remove
+the static if it is in loop.
+
+Value 2 = true of false.
+if true, the static will loop
+if false, will destroy automatically.

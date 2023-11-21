@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "kapiconfused",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My dance-pad took quite the damage."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapiconfused",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I should probably cool down a little."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapistare",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "There's a lot more people..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapiconfused",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And the arcade is closing soon."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfnormal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How about one more song, Kapi."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uh, alright! "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapiconfused",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hopefully I can impress her this time."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapimad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's settle this"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapicute",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No holding back!"
+		}
+	]
+}

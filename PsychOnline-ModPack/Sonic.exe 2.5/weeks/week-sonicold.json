@@ -1,0 +1,104 @@
+{
+	"storyName": "Sonic.exe 2.0 songs",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"cycles-old",
+			"soylent",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"endless-og",
+			"majin-og",
+			[
+				0,
+				0,
+				215
+			]
+		],
+		[
+			"sunshine",
+			"taildoll",
+			[
+				243,
+				155,
+				0
+			]
+		],
+		[
+			"chaos",
+			"fleetway",
+			[
+				254,
+				209,
+				0
+			]
+		],
+		[
+			"milk-old",
+			"sunky",
+			[
+				38,
+				72,
+				251
+			]
+		],
+		[
+			"too-fest-old",
+			"sanic",
+			[
+				0,
+				88,
+				183
+			]
+		],
+		[
+			"faker",
+			"faker",
+			[
+				49,
+				24,
+				167
+			]
+		],
+		[
+			"black-sun",
+			"faker-exe",
+			[
+				49,
+				24,
+				167
+			]
+		],
+		[
+			"execution",
+			"x",
+			[
+				120,
+				119,
+				176
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

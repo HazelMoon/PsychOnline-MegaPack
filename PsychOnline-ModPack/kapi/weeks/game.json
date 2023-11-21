@@ -1,0 +1,30 @@
+{
+	"storyName": "Please nerf up-b...",
+	"hideFreeplay": false,
+	"weekBackground": "game",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Flatzone",
+			"game",
+			[
+				140,
+				240,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Game And Watch"
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				200
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Beast idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Beast left"
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Beast left"
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Beast up"
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Beast up"
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Beast right"
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Beast right"
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Beast down"
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Beast down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Beast_Chaotix_sheet",
+	"position": [
+		180,
+		210
+	],
+	"healthicon": "chaotix",
+	"flip_x": false,
+	"healthbar_colors": [
+		187,
+		191,
+		226
+	],
+	"camera_position": [
+		-890,
+		-630
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

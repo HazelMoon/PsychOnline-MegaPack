@@ -1,0 +1,6 @@
+Value 1 = Pixel(true, false)
+Pixel = Default is false.
+layer = Default is outher
+if you want to destroy, write "destroy" in value 1.
+Value 2 = if the static will loop(true, false).
+leave blank to use the default value.

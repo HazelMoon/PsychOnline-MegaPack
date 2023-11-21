@@ -1,0 +1,68 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Fate",
+			"soylent",
+			[
+				120,
+				119,
+				176
+			]
+		],
+		[
+			"malediction",
+			"curse-happy",
+			[
+				52,
+				59,
+				113
+			]
+		],
+		[
+			"digitalized",
+			"xterion",
+			[
+				0,
+				12,
+				96
+			]
+		],
+		[
+			"mania",
+			"tails-secret",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Forced",
+			"luther",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,8 @@
+v1 = enable genesis(can be 0,1 or true/false)
+if enable = false, green hill will be destroy.
+enableGF was made in case the stage has the 
+
+Value 2 = dad,bf,gf
+for not to change, just put a point, like this:
+
+dad-pixel,.,gf-pixel

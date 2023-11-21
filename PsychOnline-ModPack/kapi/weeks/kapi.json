@@ -1,0 +1,57 @@
+{
+	"songs": [
+		[
+			"wocky",
+			"kapi",
+			[
+				6,
+				255,
+				255
+			]
+		],
+		[
+			"beathoven",
+			"kapi",
+			[
+				6,
+				255,
+				255
+			]
+		],
+		[
+			"hairball",
+			"kapiangry",
+			[
+				255,
+				93,
+				255
+			]
+		],
+		[
+			"nyaw",
+			"kapi",
+			[
+				6,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "kapi",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "b-b-break down!",
+	"weekName": "Kapi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

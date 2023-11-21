@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				273
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle instance 10",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				213
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance 10",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instance 10",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				461
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance 10",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-132,
+				251
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instance 10",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				709,
+				278
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MissLeft instance 10",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-129,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MissDown instance 10"
+		},
+		{
+			"offsets": [
+				-179,
+				399
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MissUp instance 10"
+		},
+		{
+			"offsets": [
+				-89,
+				245
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MissRight instance 10"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SunshineEncoreBF",
+	"position": [
+		-170,
+		270
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-140,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
