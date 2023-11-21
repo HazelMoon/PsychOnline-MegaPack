@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sleigh.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sleigh0000" x="0" y="0" width="1364" height="857"/>
+	<SubTexture name="sleigh0001" x="1365" y="0" width="1364" height="856" frameX="0" frameY="-1" frameWidth="1364" frameHeight="857"/>
+	<SubTexture name="sleigh0002" x="2730" y="0" width="1364" height="857"/>
+</TextureAtlas>

@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		40,
+		-110
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				-10
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "tom talk default",
+			"idle_name": "tom idle"
+		},
+		{
+			"loop_name": "tom talk happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tom idle",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "tom talk snark",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tom idle",
+			"anim": "snark",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "tom talk close",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tom idle",
+			"anim": "close",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Tom Assets"
+}

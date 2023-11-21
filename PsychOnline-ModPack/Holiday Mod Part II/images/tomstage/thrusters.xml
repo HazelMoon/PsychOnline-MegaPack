@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thrusters.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="thruster0000" x="0" y="0" width="824" height="449" frameX="0" frameY="-183" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0001" x="825" y="0" width="824" height="449" frameX="0" frameY="-183" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0002" x="1650" y="0" width="824" height="449" frameX="0" frameY="-183" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0003" x="2475" y="0" width="824" height="632"/>
+	<SubTexture name="thruster0004" x="0" y="633" width="824" height="597" frameX="0" frameY="-35" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0005" x="825" y="633" width="824" height="629" frameX="0" frameY="-3" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0006" x="1650" y="633" width="824" height="629" frameX="0" frameY="-3" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0007" x="2475" y="633" width="824" height="629" frameX="0" frameY="-3" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0008" x="0" y="1263" width="824" height="629" frameX="0" frameY="-3" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0009" x="2475" y="0" width="824" height="632"/>
+	<SubTexture name="thruster0010" x="825" y="1263" width="824" height="597" frameX="0" frameY="-35" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0011" x="1650" y="1263" width="824" height="629" frameX="0" frameY="-3" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0012" x="2475" y="1263" width="687" height="384" frameX="0" frameY="-222" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0013" x="3163" y="1263" width="687" height="384" frameX="0" frameY="-222" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0014" x="0" y="1893" width="687" height="384" frameX="0" frameY="-222" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0015" x="688" y="1893" width="687" height="606" frameX="0" frameY="0" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0016" x="1376" y="1893" width="687" height="571" frameX="0" frameY="-35" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0017" x="2064" y="1893" width="687" height="603" frameX="0" frameY="-3" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0018" x="2752" y="1893" width="687" height="603" frameX="0" frameY="-3" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0019" x="0" y="2500" width="687" height="603" frameX="0" frameY="-3" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0020" x="688" y="2500" width="687" height="603" frameX="0" frameY="-3" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0021" x="688" y="1893" width="687" height="606" frameX="0" frameY="0" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0022" x="1376" y="2500" width="687" height="571" frameX="0" frameY="-35" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0023" x="2064" y="2500" width="687" height="603" frameX="0" frameY="-3" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0024" x="2752" y="2500" width="413" height="246" frameX="0" frameY="-289" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0025" x="3166" y="2500" width="461" height="407" frameX="0" frameY="-119" frameWidth="824" frameHeight="632"/>
+	<SubTexture name="thruster0026" x="3628" y="2500" width="355" height="296" frameX="0" frameY="-222" frameWidth="824" frameHeight="632"/>
+</TextureAtlas>

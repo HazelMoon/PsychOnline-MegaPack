@@ -1,0 +1,52 @@
+{
+	"storyName": "The Holiday Mod: Part 1",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Holiday",
+			"gf",
+			[
+				188,
+				200,
+				255
+			]
+		],
+		[
+			"Deck",
+			"dad",
+			[
+				188,
+				100,
+				255
+			]
+		],
+		[
+			"Santa",
+			"spooky",
+			[
+				208,
+				180,
+				95
+			]
+		],
+		[
+			"Plum",
+			"pico-holiday",
+			[
+				88,
+				80,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Holiday I"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:5fcb878211c7df7d3d0e845beb54bff2:0682773d32fb798a882568e4a3ac97a2:bfe04d2f1fbbdd1c4578ebb99711744e$ -->
+<TextureAtlas imagePath="senpai.png" width="1176" height="136">
+    <SubTexture name="idle0" x="0" y="0" width="98" height="136"/>
+	<SubTexture name="idle1" x="98" y="0" width="98" height="136"/>
+	<SubTexture name="idle2" x="196" y="0" width="98" height="136"/>
+	<SubTexture name="idle3" x="294" y="0" width="98" height="136"/>
+	<SubTexture name="left0" x="392" y="0" width="98" height="136"/>
+	<SubTexture name="left1" x="490" y="0" width="98" height="136"/>
+	<SubTexture name="right0" x="588" y="0" width="98" height="136"/>
+	<SubTexture name="right1" x="686" y="0" width="98" height="136"/>
+	<SubTexture name="up0" x="784" y="0" width="98" height="136"/>
+	<SubTexture name="up1" x="882" y="0" width="98" height="136"/>
+	<SubTexture name="down0" x="980" y="0" width="98" height="136"/>
+	<SubTexture name="down1" x="1078" y="0" width="98" height="136"/>
+
+
+</TextureAtlas>

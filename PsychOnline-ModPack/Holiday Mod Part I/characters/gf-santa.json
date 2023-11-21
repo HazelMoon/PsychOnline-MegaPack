@@ -1,0 +1,173 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "GF Dancing Beat",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "GF Dancing Beat",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "GF LAUGH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-16
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "GF MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-miss",
+			"loop": false,
+			"name": "GF MISS"
+		},
+		{
+			"offsets": [
+				-6,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-miss",
+			"loop": false,
+			"name": "GF MISS"
+		},
+		{
+			"offsets": [
+				-6,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-miss",
+			"loop": false,
+			"name": "GF MISS"
+		},
+		{
+			"offsets": [
+				-6,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-miss",
+			"loop": false,
+			"name": "GF MISS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF-santa",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-130,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

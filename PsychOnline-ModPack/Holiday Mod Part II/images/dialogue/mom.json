@@ -1,0 +1,24 @@
+{
+	"position": [
+		110,
+		-70
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Mom_Assets",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				0,
+				-10
+			],
+			"anim": "talk",
+			"idle_name": "Mom NOTALK",
+			"loop_name": "Mom Talk"
+		}
+	]
+}

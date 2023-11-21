@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="storybook04.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="storybook040000" x="0" y="0" width="1280" height="724"/>
+	<SubTexture name="storybook040001" x="1282" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="724"/>
+	<SubTexture name="storybook040002" x="2564" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="724"/>
+	<SubTexture name="storybook040003" x="0" y="726" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="724"/>
+	<SubTexture name="storybook040004" x="1282" y="726" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="724"/>
+</TextureAtlas>

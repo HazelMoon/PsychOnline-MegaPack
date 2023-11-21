@@ -1,0 +1,57 @@
+{
+	"storyName": "agoti",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"screenplay",
+			"agoti",
+			[
+				255,
+				0,
+				20
+			]
+		],
+		[
+			"parasite",
+			"agoti",
+			[
+				255,
+				0,
+				20
+			]
+		],
+		[
+			"a.g.o.t.i",
+			"angryagoti",
+			[
+				175,
+				0,
+				0
+			]
+		],
+		[
+			"guns",
+			"agotiguns",
+			[
+				255,
+				215,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Strike!"
+}

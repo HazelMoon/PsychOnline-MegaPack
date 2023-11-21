@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_taiko.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrowDOWN0000" x="0" y="0" width="160" height="157"/>
+	<SubTexture name="arrowLEFT0000" x="161" y="0" width="160" height="157"/>
+	<SubTexture name="arrowRIGHT0000" x="322" y="0" width="160" height="157"/>
+	<SubTexture name="arrowUP0000" x="483" y="0" width="160" height="157"/>
+	<SubTexture name="blue0000" x="644" y="0" width="155" height="157"/>
+	<SubTexture name="blue hold end0000" x="800" y="0" width="50" height="64"/>
+	<SubTexture name="blue hold piece0000" x="851" y="0" width="50" height="44"/>
+	<SubTexture name="down confirm0000" x="0" y="158" width="173" height="170"/>
+	<SubTexture name="down press0000" x="174" y="158" width="160" height="157"/>
+	<SubTexture name="green0000" x="335" y="158" width="155" height="157"/>
+	<SubTexture name="green hold end0000" x="491" y="158" width="50" height="64"/>
+	<SubTexture name="green hold piece0000" x="542" y="158" width="50" height="44"/>
+	<SubTexture name="left confirm0000" x="593" y="158" width="174" height="171"/>
+	<SubTexture name="left press0000" x="768" y="158" width="160" height="157"/>
+	<SubTexture name="pruple end hold0000" x="929" y="158" width="50" height="64"/>
+	<SubTexture name="purple0000" x="0" y="330" width="155" height="157"/>
+	<SubTexture name="purple hold piece0000" x="156" y="330" width="50" height="44"/>
+	<SubTexture name="red0000" x="207" y="330" width="155" height="157"/>
+	<SubTexture name="red hold end0000" x="363" y="330" width="50" height="64"/>
+	<SubTexture name="red hold piece0000" x="414" y="330" width="50" height="44"/>
+	<SubTexture name="right confirm0000" x="465" y="330" width="173" height="170"/>
+	<SubTexture name="right press0000" x="639" y="330" width="160" height="157"/>
+	<SubTexture name="up confirm0000" x="800" y="330" width="173" height="170"/>
+	<SubTexture name="up press0000" x="0" y="501" width="160" height="157"/>
+</TextureAtlas>

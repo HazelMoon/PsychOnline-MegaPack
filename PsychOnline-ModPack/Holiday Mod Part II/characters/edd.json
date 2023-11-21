@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "edd idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "edd left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "edd down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "edd up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "edd right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				44
+			],
+			"anim": "yell",
+			"fps": 24,
+			"name": "edd yell",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "annoyed",
+			"fps": 24,
+			"name": "edd annoyed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-10
+			],
+			"anim": "idiot",
+			"fps": 24,
+			"name": "edd idiot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "edd alt idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zanta/Edd Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "edd",
+	"flip_x": true,
+	"healthbar_colors": [
+		100,
+		220,
+		120
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

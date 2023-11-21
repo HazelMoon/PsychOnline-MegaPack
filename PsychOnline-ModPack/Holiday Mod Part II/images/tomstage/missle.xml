@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="missle.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="missle0000" x="0" y="0" width="311" height="235" frameX="-2123" frameY="-57" frameWidth="2931" frameHeight="384"/>
+	<SubTexture name="missle0001" x="313" y="0" width="809" height="384" frameX="-2074" frameY="0" frameWidth="2931" frameHeight="384"/>
+	<SubTexture name="missle0002" x="1124" y="0" width="808" height="384" frameX="-2091" frameY="0" frameWidth="2931" frameHeight="384"/>
+	<SubTexture name="missle0003" x="1934" y="0" width="808" height="384" frameX="-2107" frameY="0" frameWidth="2931" frameHeight="384"/>
+	<SubTexture name="missle0004" x="2744" y="0" width="808" height="384" frameX="-2123" frameY="0" frameWidth="2931" frameHeight="384"/>
+	<SubTexture name="missle0005" x="0" y="386" width="808" height="384" frameX="-2120" frameY="0" frameWidth="2931" frameHeight="384"/>
+	<SubTexture name="missle0006" x="810" y="386" width="808" height="384" frameX="-2100" frameY="0" frameWidth="2931" frameHeight="384"/>
+	<SubTexture name="missle0007" x="1620" y="386" width="809" height="384" frameX="-2044" frameY="0" frameWidth="2931" frameHeight="384"/>
+	<SubTexture name="missle0008" x="2431" y="386" width="808" height="384" frameX="-1937" frameY="0" frameWidth="2931" frameHeight="384"/>
+	<SubTexture name="missle0009" x="3241" y="386" width="808" height="384" frameX="-1759" frameY="0" frameWidth="2931" frameHeight="384"/>
+	<SubTexture name="missle0010" x="0" y="772" width="808" height="384" frameX="-1494" frameY="0" frameWidth="2931" frameHeight="384"/>
+	<SubTexture name="missle0011" x="810" y="772" width="808" height="384" frameX="-1124" frameY="0" frameWidth="2931" frameHeight="384"/>
+	<SubTexture name="missle0012" x="1620" y="772" width="808" height="384" frameX="-632" frameY="0" frameWidth="2931" frameHeight="384"/>
+	<SubTexture name="missle0013" x="313" y="0" width="809" height="384" frameX="0" frameY="0" frameWidth="2931" frameHeight="384"/>
+</TextureAtlas>

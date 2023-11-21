@@ -1,0 +1,52 @@
+{
+	"storyName": "The Holiday Mod: Part 2",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Feliz",
+			"senpai-pixel",
+			[
+				68,
+				200,
+				255
+			]
+		],
+		[
+			"Hark",
+			"tankman",
+			[
+				40,
+				40,
+				95
+			]
+		],
+		[
+			"You",
+			"mom",
+			[
+				188,
+				0,
+				115
+			]
+		],
+		[
+			"Demolition",
+			"tom",
+			[
+				28,
+				20,
+				75
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Holiday II"
+}

@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		120,
+		240
+	],
+	"scale": 7.99999999999997,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BF0",
+			"idle_name": "BFLOOP"
+		}
+	],
+	"image": "BFPIXEL"
+}

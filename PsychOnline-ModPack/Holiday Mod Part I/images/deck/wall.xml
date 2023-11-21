@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wall.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wall0000" x="0" y="0" width="2041" height="1323" frameX="-24" frameY="0" frameWidth="2065" frameHeight="1323"/>
+	<SubTexture name="wall0001" x="2042" y="0" width="2041" height="1323" frameX="0" frameY="0" frameWidth="2065" frameHeight="1323"/>
+</TextureAtlas>

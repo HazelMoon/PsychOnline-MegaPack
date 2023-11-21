@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pump.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pump HAHA0000" x="0" y="0" width="448" height="402"/>
+	<SubTexture name="pump HAHA0001" x="449" y="0" width="444" height="390" frameX="-4" frameY="-12" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="pump HAHA0002" x="449" y="0" width="444" height="390" frameX="-4" frameY="-12" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="pump HAHA0003" x="894" y="0" width="444" height="389" frameX="-4" frameY="-13" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="pump HAHA0004" x="1339" y="0" width="299" height="389" frameX="-4" frameY="-13" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="pump HAHA0005" x="1339" y="0" width="299" height="389" frameX="-4" frameY="-13" frameWidth="448" frameHeight="402"/>
+	<SubTexture name="pump YEA0000" x="1639" y="0" width="666" height="419" frameX="0" frameY="-28" frameWidth="666" frameHeight="447"/>
+	<SubTexture name="pump YEA0001" x="2306" y="0" width="631" height="447" frameX="0" frameY="0" frameWidth="666" frameHeight="447"/>
+	<SubTexture name="pump YEA0002" x="2938" y="0" width="642" height="422" frameX="0" frameY="-25" frameWidth="666" frameHeight="447"/>
+	<SubTexture name="pump YEA0003" x="2938" y="0" width="642" height="422" frameX="0" frameY="-25" frameWidth="666" frameHeight="447"/>
+	<SubTexture name="pump YEA0004" x="0" y="448" width="642" height="422" frameX="0" frameY="-25" frameWidth="666" frameHeight="447"/>
+	<SubTexture name="pump YEA0005" x="0" y="448" width="642" height="422" frameX="0" frameY="-25" frameWidth="666" frameHeight="447"/>
+	<SubTexture name="pump YEA0006" x="0" y="448" width="642" height="422" frameX="0" frameY="-25" frameWidth="666" frameHeight="447"/>
+	<SubTexture name="pump YEA0007" x="0" y="448" width="642" height="422" frameX="0" frameY="-25" frameWidth="666" frameHeight="447"/>
+	<SubTexture name="pump YEA0008" x="0" y="448" width="642" height="422" frameX="0" frameY="-25" frameWidth="666" frameHeight="447"/>
+	<SubTexture name="pump YEA0009" x="0" y="448" width="642" height="422" frameX="0" frameY="-25" frameWidth="666" frameHeight="447"/>
+	<SubTexture name="pump YEA0010" x="643" y="448" width="642" height="422" frameX="0" frameY="-25" frameWidth="666" frameHeight="447"/>
+	<SubTexture name="pump YEA0011" x="3170" y="871" width="361" height="389" frameX="0" frameY="-58" frameWidth="361" frameHeight="419"/>
+	<SubTexture name="pump down0000" x="1286" y="448" width="412" height="285" frameX="-5" frameY="-16" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0001" x="1286" y="448" width="412" height="285" frameX="-5" frameY="-16" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0002" x="1699" y="448" width="412" height="299" frameX="-1" frameY="-2" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0003" x="1699" y="448" width="412" height="299" frameX="-1" frameY="-2" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0004" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0005" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0006" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0007" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0008" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0009" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0010" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0011" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0012" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0013" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0014" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0015" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0016" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0017" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0018" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0019" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0020" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0021" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump down0022" x="2112" y="448" width="412" height="301" frameX="0" frameY="0" frameWidth="417" frameHeight="301"/>
+	<SubTexture name="pump idle0000" x="2525" y="448" width="345" height="328" frameX="0" frameY="-42" frameWidth="345" frameHeight="373"/>
+	<SubTexture name="pump idle0001" x="2525" y="448" width="345" height="328" frameX="0" frameY="-42" frameWidth="345" frameHeight="373"/>
+	<SubTexture name="pump idle0002" x="2871" y="448" width="331" height="363" frameX="-8" frameY="-10" frameWidth="345" frameHeight="373"/>
+	<SubTexture name="pump idle0003" x="2871" y="448" width="331" height="363" frameX="-8" frameY="-10" frameWidth="345" frameHeight="373"/>
+	<SubTexture name="pump idle0004" x="3203" y="448" width="327" height="372" frameX="-10" frameY="-1" frameWidth="345" frameHeight="373"/>
+	<SubTexture name="pump idle0005" x="3203" y="448" width="327" height="372" frameX="-10" frameY="-1" frameWidth="345" frameHeight="373"/>
+	<SubTexture name="pump idle0006" x="3531" y="448" width="326" height="373" frameX="-11" frameY="0" frameWidth="345" frameHeight="373"/>
+	<SubTexture name="pump idle0007" x="3531" y="448" width="326" height="373" frameX="-11" frameY="0" frameWidth="345" frameHeight="373"/>
+	<SubTexture name="pump idle0008" x="3531" y="448" width="326" height="373" frameX="-11" frameY="0" frameWidth="345" frameHeight="373"/>
+	<SubTexture name="pump idle0009" x="3531" y="448" width="326" height="373" frameX="-11" frameY="0" frameWidth="345" frameHeight="373"/>
+	<SubTexture name="pump idle0010" x="3531" y="448" width="326" height="373" frameX="-11" frameY="0" frameWidth="345" frameHeight="373"/>
+	<SubTexture name="pump idle0011" x="3531" y="448" width="326" height="373" frameX="-11" frameY="0" frameWidth="345" frameHeight="373"/>
+	<SubTexture name="pump idle0012" x="3531" y="448" width="326" height="373" frameX="-11" frameY="0" frameWidth="345" frameHeight="373"/>
+	<SubTexture name="pump idle0013" x="3531" y="448" width="326" height="373" frameX="-11" frameY="0" frameWidth="345" frameHeight="373"/>
+	<SubTexture name="pump left0000" x="0" y="871" width="385" height="338" frameX="0" frameY="-6" frameWidth="386" frameHeight="344"/>
+	<SubTexture name="pump left0001" x="0" y="871" width="385" height="338" frameX="0" frameY="-6" frameWidth="386" frameHeight="344"/>
+	<SubTexture name="pump left0002" x="386" y="871" width="376" height="343" frameX="-10" frameY="-1" frameWidth="386" frameHeight="344"/>
+	<SubTexture name="pump left0003" x="386" y="871" width="376" height="343" frameX="-10" frameY="-1" frameWidth="386" frameHeight="344"/>
+	<SubTexture name="pump left0004" x="763" y="871" width="374" height="344" frameX="-12" frameY="0" frameWidth="386" frameHeight="344"/>
+	<SubTexture name="pump left0005" x="763" y="871" width="374" height="344" frameX="-12" frameY="0" frameWidth="386" frameHeight="344"/>
+	<SubTexture name="pump left0006" x="763" y="871" width="374" height="344" frameX="-12" frameY="0" frameWidth="386" frameHeight="344"/>
+	<SubTexture name="pump left0007" x="763" y="871" width="374" height="344" frameX="-12" frameY="0" frameWidth="386" frameHeight="344"/>
+	<SubTexture name="pump left0008" x="763" y="871" width="374" height="344" frameX="-12" frameY="0" frameWidth="386" frameHeight="344"/>
+	<SubTexture name="pump left0009" x="763" y="871" width="374" height="344" frameX="-12" frameY="0" frameWidth="386" frameHeight="344"/>
+	<SubTexture name="pump left0010" x="763" y="871" width="374" height="344" frameX="-12" frameY="0" frameWidth="386" frameHeight="344"/>
+	<SubTexture name="pump left0011" x="763" y="871" width="374" height="344" frameX="-12" frameY="0" frameWidth="386" frameHeight="344"/>
+	<SubTexture name="pump left0012" x="763" y="871" width="374" height="344" frameX="-12" frameY="0" frameWidth="386" frameHeight="344"/>
+	<SubTexture name="pump left0013" x="763" y="871" width="374" height="344" frameX="-12" frameY="0" frameWidth="386" frameHeight="344"/>
+	<SubTexture name="pump left0014" x="763" y="871" width="374" height="344" frameX="-12" frameY="0" frameWidth="386" frameHeight="344"/>
+	<SubTexture name="pump right0000" x="1138" y="871" width="446" height="345"/>
+	<SubTexture name="pump right0001" x="1138" y="871" width="446" height="345"/>
+	<SubTexture name="pump right0002" x="1585" y="871" width="431" height="340" frameX="-6" frameY="-5" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0003" x="1585" y="871" width="431" height="340" frameX="-6" frameY="-5" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0004" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0005" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0006" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0007" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0008" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0009" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0010" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0011" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0012" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0013" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0014" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0015" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0016" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0017" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0018" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0019" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0020" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0021" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0022" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0023" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump right0024" x="2017" y="871" width="428" height="339" frameX="-6" frameY="-6" frameWidth="446" frameHeight="345"/>
+	<SubTexture name="pump up0000" x="2446" y="871" width="361" height="419"/>
+	<SubTexture name="pump up0001" x="2446" y="871" width="361" height="419"/>
+	<SubTexture name="pump up0002" x="2808" y="871" width="361" height="391" frameX="0" frameY="-28" frameWidth="361" frameHeight="419"/>
+	<SubTexture name="pump up0003" x="2808" y="871" width="361" height="391" frameX="0" frameY="-28" frameWidth="361" frameHeight="419"/>
+	<SubTexture name="pump up0004" x="3170" y="871" width="361" height="389" frameX="0" frameY="-30" frameWidth="361" frameHeight="419"/>
+	<SubTexture name="pump up0005" x="3170" y="871" width="361" height="389" frameX="0" frameY="-30" frameWidth="361" frameHeight="419"/>
+</TextureAtlas>

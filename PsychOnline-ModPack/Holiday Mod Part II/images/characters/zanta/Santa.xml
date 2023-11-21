@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Santa.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="santa0000" x="0" y="0" width="504" height="548"/>
+	<SubTexture name="santa BALD0000" x="505" y="0" width="504" height="548"/>
+	<SubTexture name="santa alt0000" x="1010" y="0" width="504" height="548"/>
+	<SubTexture name="santa hurt0000" x="1515" y="0" width="504" height="548" frameX="0" frameY="0" frameWidth="584" frameHeight="606"/>
+	<SubTexture name="santa hurt0001" x="1515" y="0" width="504" height="548" frameX="0" frameY="0" frameWidth="584" frameHeight="606"/>
+	<SubTexture name="santa hurt0002" x="0" y="549" width="584" height="606"/>
+	<SubTexture name="santa hurt0003" x="0" y="549" width="584" height="606"/>
+	<SubTexture name="santa hurt0004" x="585" y="549" width="568" height="602" frameX="0" frameY="0" frameWidth="584" frameHeight="606"/>
+	<SubTexture name="santa hurt0005" x="585" y="549" width="568" height="602" frameX="0" frameY="0" frameWidth="584" frameHeight="606"/>
+	<SubTexture name="santa hurt0006" x="1154" y="549" width="568" height="602" frameX="0" frameY="0" frameWidth="584" frameHeight="606"/>
+	<SubTexture name="santa hurt0007" x="1154" y="549" width="568" height="602" frameX="0" frameY="0" frameWidth="584" frameHeight="606"/>
+	<SubTexture name="santa hurt0008" x="0" y="1156" width="568" height="602" frameX="0" frameY="0" frameWidth="584" frameHeight="606"/>
+	<SubTexture name="santa hurt0009" x="0" y="1156" width="568" height="602" frameX="0" frameY="0" frameWidth="584" frameHeight="606"/>
+	<SubTexture name="santa hurt0010" x="0" y="1156" width="568" height="602" frameX="0" frameY="0" frameWidth="584" frameHeight="606"/>
+	<SubTexture name="santa hurt0011" x="0" y="1156" width="568" height="602" frameX="0" frameY="0" frameWidth="584" frameHeight="606"/>
+	<SubTexture name="santa hurt0012" x="0" y="1156" width="568" height="602" frameX="0" frameY="0" frameWidth="584" frameHeight="606"/>
+	<SubTexture name="santa hurt0013" x="0" y="1156" width="568" height="602" frameX="0" frameY="0" frameWidth="584" frameHeight="606"/>
+	<SubTexture name="santa hurt0014" x="0" y="1156" width="568" height="602" frameX="0" frameY="0" frameWidth="584" frameHeight="606"/>
+	<SubTexture name="santa hurt0015" x="0" y="1156" width="568" height="602" frameX="0" frameY="0" frameWidth="584" frameHeight="606"/>
+	<SubTexture name="santa hurt0016" x="0" y="1156" width="568" height="602" frameX="0" frameY="0" frameWidth="584" frameHeight="606"/>
+</TextureAtlas>

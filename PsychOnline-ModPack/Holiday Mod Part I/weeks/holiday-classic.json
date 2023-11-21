@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Holiday-Classic", "gf", [188, 200, 255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Classic Holdiay",
+	"weekBefore": "tutorial",
+	"weekName": "Holiday I",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

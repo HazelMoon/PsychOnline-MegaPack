@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tankman_Assets.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tankman IDLE0000" x="0" y="0" width="405" height="582"/>
+	<SubTexture name="tankman TALK0000" x="405" y="0" width="404" height="590" frameX="0" frameY="0" frameWidth="405" frameHeight="590"/>
+	<SubTexture name="tankman TALK0001" x="809" y="0" width="404" height="589" frameX="0" frameY="-1" frameWidth="405" frameHeight="590"/>
+	<SubTexture name="tankman TALK0002" x="1213" y="0" width="405" height="582" frameX="0" frameY="-8" frameWidth="405" frameHeight="590"/>
+	<SubTexture name="tankman TALK0003" x="1618" y="0" width="405" height="582" frameX="0" frameY="-8" frameWidth="405" frameHeight="590"/>
+</TextureAtlas>

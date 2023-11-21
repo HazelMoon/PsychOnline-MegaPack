@@ -1,0 +1,217 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tom idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tom left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tom down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tom up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tom right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				97,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "tom intro"
+		},
+		{
+			"offsets": [
+				121,
+				-20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "tom left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "tom idle"
+		},
+		{
+			"offsets": [
+				20,
+				-70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "tom down"
+		},
+		{
+			"offsets": [
+				34,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "tom up"
+		},
+		{
+			"offsets": [
+				41,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "tom right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "end",
+			"indices": [
+				0,
+				2,
+				3,
+				4,
+				5,
+				2,
+				3,
+				4,
+				5,
+				2,
+				3,
+				4,
+				5,
+				2,
+				3,
+				4,
+				5,
+				2,
+				3,
+				4,
+				5,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "tom end"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "missle",
+			"loop": false,
+			"name": "tom missle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tom",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tom",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		142,
+		206
+	],
+	"camera_position": [
+		-160,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

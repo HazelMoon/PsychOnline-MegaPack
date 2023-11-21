@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="picoarm.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="picoarm0000" x="0" y="0" width="378" height="180" frameX="-39" frameY="-4" frameWidth="634" frameHeight="228"/>
+	<SubTexture name="picoarm0001" x="380" y="0" width="634" height="228"/>
+	<SubTexture name="picoarm0002" x="0" y="230" width="615" height="228" frameX="-19" frameY="0" frameWidth="634" frameHeight="228"/>
+</TextureAtlas>
