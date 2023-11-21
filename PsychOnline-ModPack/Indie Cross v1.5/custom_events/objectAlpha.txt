@@ -1,0 +1,6 @@
+value 1 = object,target
+value 2 = time,easing
+default values:
+target = 1
+time = 1
+easing = 'linear'

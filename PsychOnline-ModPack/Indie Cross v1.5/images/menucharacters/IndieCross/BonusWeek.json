@@ -1,0 +1,11 @@
+{
+	"idle_anim": "fun4",
+	"image": "IndieCross/BonusWeek",
+	"position": [
+		460,
+		55
+	],
+	"flipX": false,
+	"scale": 1.05,
+	"confirm_anim": "M Dad Idle"
+}

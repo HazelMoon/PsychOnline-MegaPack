@@ -1,0 +1,4 @@
+Value 1 = alert(true or blank/false)
+
+Value 2 = if true, if the player doesn't dodge, he
+will die instantly.

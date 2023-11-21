@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				22,
+				-146
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Normal instance 1"
+		},
+		{
+			"offsets": [
+				5,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Normal instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-133
+			],
+			"anim": "You've got this",
+			"fps": 24,
+			"name": "You've got this instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-41
+			],
+			"anim": "ugh lowblow",
+			"fps": 24,
+			"name": "ugh lowblow instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				-115
+			],
+			"anim": "Transformation",
+			"fps": 24,
+			"name": "Transformation instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				123,
+				-1
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Oblivion Bendy instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				152,
+				-52
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Left Oblivion instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				-127
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-124
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right Normal instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				-49
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Down Oblivion instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-24
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Right Oblivion instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				44
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Up Oblivion instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-69,
+				-90
+			],
+			"anim": "idle",
+			"fps": 25,
+			"name": "Idle Normal instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bendy/BendyDAgames",
+	"position": [
+		30,
+		140
+	],
+	"healthicon": "bendyDA",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		41,
+		47
+	],
+	"camera_position": [
+		100,
+		130
+	],
+	"sing_duration": 5.5,
+	"scale": 1.3
+}

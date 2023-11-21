@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "Goose",
+		"player1": "BF_Goose",
+		"player2": "Goose",
+		"player3": null,
+		"events": [
+			[
+				10838.7096774194,
+				[
+					[
+						"Play Animation",
+						"Goose MLG Anim",
+						"Dad"
+					]
+				]
+			],
+			[
+				12290.3225806452,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				15483.8709677419,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				37161.2903225807,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogfnotbb",
+		"bpm": 155,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Gose"
+	}
+}

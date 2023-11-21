@@ -1,0 +1,50 @@
+{
+	"storyName": "indie Cross Nightmare Songs",
+	"difficulties": "no-mechanics, hard, hell",
+	"hideFreeplay": false,
+	"weekBackground": "IndieCross/menu_black",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Devils-Gambit",
+			"nightmare-cuphead",
+			[
+				165,
+				19,
+				70
+			]
+		],
+		[
+			"Bad-Time",
+			"nightmare-sans",
+			[
+				41,
+				72,
+				118
+			]
+		],
+		[
+			"Despair",
+			"nightmare-bendy",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"IndieCross/NightmareWeek",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Nightmare-Week"
+}

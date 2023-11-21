@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance instance 1"
+		},
+		{
+			"offsets": [
+				25,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF NOTE LEFT instance 1"
+		},
+		{
+			"offsets": [
+				-34,
+				-36
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BF NOTE DOWN instance"
+		},
+		{
+			"offsets": [
+				-55,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF NOTE UP instance 1"
+		},
+		{
+			"offsets": [
+				-38,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF NOTE RIGHT instance 1"
+		},
+		{
+			"offsets": [
+				-21,
+				23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BF NOTE LEFT MISS instance 1"
+		},
+		{
+			"offsets": [
+				-35,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BF NOTE DOWN MISS instance 1"
+		},
+		{
+			"offsets": [
+				-56,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BF NOTE UP MISS instance 1"
+		},
+		{
+			"offsets": [
+				-60,
+				24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BF NOTE RIGHT MISS instance 1"
+		},
+		{
+			"offsets": [
+				1084,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "0BF attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans/BoyFriend_SansWT",
+	"position": [
+		-10,
+		352
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		175,
+		209
+	],
+	"camera_position": [
+		580,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

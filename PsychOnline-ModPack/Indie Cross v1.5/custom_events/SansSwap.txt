@@ -1,0 +1,2 @@
+value 1 = 0/1(OFF/ON)
+Event used on Final-Stretch song

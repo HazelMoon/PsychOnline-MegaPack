@@ -1,0 +1,2 @@
+value 1 = 0/1(OFF/ON), color
+value 2 = time,easing

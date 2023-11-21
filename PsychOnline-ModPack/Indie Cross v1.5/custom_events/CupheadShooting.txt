@@ -1,0 +1,8 @@
+Value 1 : Shooting style.
+"0" or leave blank for Peashot, "1" or other
+text for Chaser
+
+Value 2 : True or leave blank to
+enable the shot.
+False or another text to
+disable the shot.

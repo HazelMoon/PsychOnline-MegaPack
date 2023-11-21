@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				42,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT copy 2 instance 1"
+		},
+		{
+			"offsets": [
+				-14,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN copy 2 instance 1"
+		},
+		{
+			"offsets": [
+				-41,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP copy 2 instance 1"
+		},
+		{
+			"offsets": [
+				-24,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT copy 2 instance 1"
+		},
+		{
+			"offsets": [
+				435,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "Attack instance 1"
+		},
+		{
+			"offsets": [
+				-22,
+				151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack2",
+			"indices": [],
+			"name": "Attack instance 2"
+		},
+		{
+			"offsets": [
+				9,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "Ouch instance 1"
+		},
+		{
+			"offsets": [
+				8,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "Dodge instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bendy/BoyFriend_3rdPhase",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		220,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

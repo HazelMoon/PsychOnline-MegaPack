@@ -1,0 +1,6 @@
+Value 1 = 0,1,2,3(Normal,Orange/Blue,orange,blue)
+1 = The game will randomly select whether to be 
+orange or blue.
+Value 2 = If true, when the player does not dodge, he 
+will die instantly.
+if false or blank, he will lose half his life.

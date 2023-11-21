@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "BendyStage",
+		"player1": "BF_Bendy_IC_Phase3",
+		"player2": "Bendy_IC",
+		"player3": null,
+		"events": [
+			[
+				8230.76923076923,
+				[
+					[
+						"Play Animation",
+						"Scream",
+						""
+					]
+				]
+			],
+			[
+				8553.84615384615,
+				[
+					[
+						"Screen Shake",
+						"1.4, 0.035",
+						"1.4, 0.025"
+					]
+				]
+			],
+			[
+				136615.384615385,
+				[
+					[
+						"Set Cam Zoom",
+						"cur,0.2",
+						""
+					]
+				]
+			],
+			[
+				136923.076923077,
+				[
+					[
+						"Set Cam Zoom",
+						"cur,0.2",
+						""
+					]
+				]
+			],
+			[
+				137230.769230769,
+				[
+					[
+						"Set Cam Zoom",
+						"cur,0.2",
+						""
+					]
+				]
+			],
+			[
+				137538.461538462,
+				[
+					[
+						"Set Cam Zoom",
+						"cur,-0.6",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 195,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Last-Reel"
+	}
+}

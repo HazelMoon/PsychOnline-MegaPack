@@ -1,0 +1,59 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				20
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Reset",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				20
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Reset",
+			"indices": [
+				15,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				38
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Res0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bendy/Ded",
+	"position": [
+		-100,
+		410
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		230,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

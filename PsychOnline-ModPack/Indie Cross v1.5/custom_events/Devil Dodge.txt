@@ -1,0 +1,5 @@
+Value 1 = ?
+
+Value 2 = If true, when the player does not dodge, he 
+will die instantly.
+If False or blank, he will lose half his life.

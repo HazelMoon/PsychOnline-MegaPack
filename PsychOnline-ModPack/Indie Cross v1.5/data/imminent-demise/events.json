@@ -1,0 +1,21 @@
+{
+	"song": {
+		"events": [
+			[
+				84675,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bendy-ic"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-bendy-ic-phase2"
+					]
+				]
+			]
+		]
+	}
+}

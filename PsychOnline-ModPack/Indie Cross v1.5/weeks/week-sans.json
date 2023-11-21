@@ -1,0 +1,41 @@
+{
+	"storyName": "Indie Cross Sans Week",
+	"hideFreeplay": false,
+	"difficulties": "no-mechanics, hard, hell",
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"IndieCross/ICSans",
+		"IndieCross/SansWeek",
+		""
+	],
+	"songs": [
+		[
+			"Whoopee",
+			"sans",
+			[
+				41,
+				72,
+				118
+			]
+		],
+		[
+			"Sansational",
+			"sans",
+			[
+				41,
+				72,
+				118
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Sans-Week",
+	"hiddenUntilUnlocked": false
+}

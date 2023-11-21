@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sin_NOTES.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="blue0000" x="1" y="1" width="215" height="334" frameX="28" frameY="0" frameWidth="215" frameHeight="334"/>
+	<SubTexture name="purple0000" x="216" y="1" width="223" height="324" frameX="33" frameY="0" frameWidth="223" frameHeight="324"/>
+	<SubTexture name="red0000" x="1" y="335" width="223" height="328" frameX="38" frameY="0" frameWidth="223" frameHeight="328"/>
+	<SubTexture name="green0000" x="224" y="335" width="215" height="334" frameX="25" frameY="0" frameWidth="215" frameHeight="334"/>
+</TextureAtlas>

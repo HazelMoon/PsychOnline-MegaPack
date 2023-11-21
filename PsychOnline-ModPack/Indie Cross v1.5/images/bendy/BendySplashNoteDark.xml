@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_ink notes2.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="2" y="2" width="273" height="282" frameX="20" frameY="10" frameWidth="274" frameHeight="282"/>
+	<SubTexture name="purple0000" x="275" y="2" width="282" height="274" frameX="20" frameY="10" frameWidth="282" frameHeight="274"/>
+	<SubTexture name="red0000" x="557" y="2" width="282" height="274" frameX="15" frameY="10" frameWidth="282" frameHeight="274"/>
+	<SubTexture name="green0000" x="2" y="284" width="274" height="282" frameX="15" frameY="10" frameWidth="274" frameHeight="282"/>
+	<SubTexture name="red hold end0000" x="669" y="476" width="51" height="64"/>
+	<SubTexture name="red hold piece0000" x="735" y="476" width="51" height="44"/>
+	<SubTexture name="green hold end0000" x="669" y="476" width="51" height="64"/>
+	<SubTexture name="green hold piece0000" x="735" y="476" width="51" height="44"/>
+	<SubTexture name="blue hold end0000" x="669" y="476" width="51" height="64"/>
+	<SubTexture name="blue hold piece0000" x="735" y="476" width="51" height="44"/>
+	<SubTexture name="pruple end hold0000" x="669" y="476" width="51" height="64"/>
+	<SubTexture name="purple hold piece0000" x="735" y="476" width="51" height="44"/>
+</TextureAtlas>

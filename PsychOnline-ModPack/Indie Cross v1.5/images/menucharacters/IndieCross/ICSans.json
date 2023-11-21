@@ -1,0 +1,11 @@
+{
+	"idle_anim": "San",
+	"image": "IndieCross/ICSans",
+	"position": [
+		-50,
+		250
+	],
+	"flipX": false,
+	"scale": 0.67,
+	"confirm_anim": "M Dad Idle"
+}

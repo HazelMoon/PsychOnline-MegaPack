@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "0Idle instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "0EERR instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-34
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "0Ouu instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "0UPPP instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "0EEEE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				23
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "L-Miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-22
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "D-Miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				110
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "U-Miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				21
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "R-Miss instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1114,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "0BF attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans/Chara",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		580,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

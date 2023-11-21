@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-95
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fzt instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				108
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-54
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right copy instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				1
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "That's ma boi instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "jghrue instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-90
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "SANS WAKE UP BITCH instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				90
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ISTG instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				20
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "upahgn instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				43
+			],
+			"anim": "Let's go",
+			"fps": 24,
+			"name": "Sans lessgo instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				-90
+			],
+			"anim": "Wake Up",
+			"fps": 24,
+			"name": "SANS WAKE UP BITCH instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				-30
+			],
+			"anim": "Bruh",
+			"fps": 24,
+			"name": "Bruh instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				81,
+				-33
+			],
+			"anim": "Mad",
+			"fps": 24,
+			"name": "gzezy instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				82,
+				-20
+			],
+			"anim": "More Mad",
+			"fps": 24,
+			"name": "Even more Mad instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				72
+			],
+			"anim": "!",
+			"fps": 24,
+			"name": "Oh Sans you Mother fuc-",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans/Papyrus",
+	"position": [
+		20,
+		160
+	],
+	"healthicon": "papyrus",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		22,
+		74
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.3
+}

@@ -1,0 +1,7 @@
+Value 2: Color,blend,alphaStart.
+example:
+     FF0000,add,0.5
+
+Value 2: time,easing,layer.
+example:
+     0.7,quartOut,hud.

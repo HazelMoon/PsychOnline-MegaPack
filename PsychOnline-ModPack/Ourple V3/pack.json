@@ -1,0 +1,7 @@
+{
+	"name": "Ourple V3 Psych Engine",
+	"description": "Redone by HazelMoon",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}

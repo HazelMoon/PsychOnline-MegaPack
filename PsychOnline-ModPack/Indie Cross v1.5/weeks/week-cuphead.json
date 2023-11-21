@@ -1,0 +1,50 @@
+{
+	"storyName": "Indie Cross Cuphead Week",
+	"difficulties": "no-mechanics, hard, hell",
+	"hideFreeplay": false,
+	"weekBackground": "IndieCross/menu_tree",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"snake-eyes",
+			"cuphead",
+			[
+				171,
+				22,
+				74
+			]
+		],
+		[
+			"technicolor-tussle",
+			"cuphead",
+			[
+				171,
+				22,
+				74
+			]
+		],
+		[
+			"knockout",
+			"AngryCuphead",
+			[
+				171,
+				22,
+				74
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"IndieCross/CupheadWeek",
+		"IndieCross/ICCuphead"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Cuphead Week"
+}

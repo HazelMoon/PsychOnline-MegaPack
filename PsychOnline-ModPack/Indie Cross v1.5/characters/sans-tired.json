@@ -1,0 +1,121 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sans FNF Tired instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right Tired instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down Tired instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"offsets": [
+				63,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Left Tired instance 1"
+		},
+		{
+			"offsets": [
+				49,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Up Tired instance 1"
+		},
+		{
+			"offsets": [
+				115,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "SansDodgeTired"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans/Sans_Phase_3",
+	"position": [
+		-20,
+		221
+	],
+	"healthicon": "sans_phase3",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

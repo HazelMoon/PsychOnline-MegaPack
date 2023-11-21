@@ -1,0 +1,273 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sans FNF instance 1"
+		},
+		{
+			"offsets": [
+				50,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Left instance 1"
+		},
+		{
+			"offsets": [
+				-11,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Down instance 1"
+		},
+		{
+			"offsets": [
+				-17,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Up instance 1"
+		},
+		{
+			"offsets": [
+				-18,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Right instance 1"
+		},
+		{
+			"offsets": [
+				-15,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Sans FNF 02 instance 1"
+		},
+		{
+			"offsets": [
+				49,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Left 02 instance 1"
+		},
+		{
+			"offsets": [
+				-12,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Down 02 instance 1"
+		},
+		{
+			"offsets": [
+				35,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Up 02 instance 1"
+		},
+		{
+			"offsets": [
+				-18,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Right 02 instance 1"
+		},
+		{
+			"offsets": [
+				99,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "SansDodge instance 1"
+		},
+		{
+			"offsets": [
+				21,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "snap",
+			"indices": [],
+			"name": "Switch to UT mode instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			],
+			"fps": 26,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "Sans FNF instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 26,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "Sans FNF instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans/Sans_IC",
+	"position": [
+		-35,
+		220
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,6 @@
+{
+	"name": "Indie Cross Port",
+	"description": "It's recommended to play on 60fps",
+	"restart":true,
+	"color": [170, 0, 255]
+}

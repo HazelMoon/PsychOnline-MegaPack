@@ -1,0 +1,11 @@
+{
+	"idle_anim": "C",
+	"image": "IndieCross/ICCuphead",
+	"position": [
+		215,
+		75
+	],
+	"flipX": false,
+	"scale": 0.6,
+	"confirm_anim": "M Dad Idle"
+}

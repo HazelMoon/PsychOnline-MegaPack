@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BendyShadowNoteDark-Hell.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="63" y="0" width="191" height="272" frameX = "14" frameY = "0" frameWidth = "200" frameHeight = "330"/>
+	<SubTexture name="blue hold end0000" x="324" y="0" width="50" height="64"/>
+	<SubTexture name="blue hold piece0000" x="374" y="0" width="50" height="44"/>
+	<SubTexture name="green0000" x="474" y="0" width="214" height="321" frameX = "28" frameY = "0" frameWidth = "200" frameHeight = "330"/>
+	<SubTexture name="green hold end0000" x="748" y="0" width="50" height="64"/>
+	<SubTexture name="green hold piece0000" x="798" y="0" width="50" height="44"/>
+	<SubTexture name="pruple end hold0000" x="848" y="0" width="50" height="64"/>
+	<SubTexture name="purple0000" x="56" y="407" width="198" height="330" frameX = "18" frameY = "0" frameWidth = "200" frameHeight = "330"/>
+	<SubTexture name="purple hold piece0000" x="321" y="321" width="50" height="44"/>
+	<SubTexture name="red0000" x="441" y="407" width="180" height="330" frameX = "10" frameY = "0" frameWidth = "200" frameHeight = "330"/>
+	<SubTexture name="red hold end0000" x="692" y="321" width="50" height="64"/>
+	<SubTexture name="red hold piece0000" x="742" y="321" width="50" height="44"/>
+</TextureAtlas>

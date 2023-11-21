@@ -1,0 +1,41 @@
+{
+	"storyName": "Indie Cross Sans Week",
+	"difficulties": "no-mechanics, hard, hell",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"IndieCross/ICSans",
+		"IndieCross/SansWeek",
+		""
+	],
+	"songs": [
+		[
+			"Final-Stretch",
+			"sans",
+			[
+				41,
+				72,
+				118
+			]
+		],
+		[
+			"Burning-In-Hell",
+			"sans_phase3",
+			[
+				41,
+				72,
+				118
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Sans-Week",
+	"hiddenUntilUnlocked": false
+}

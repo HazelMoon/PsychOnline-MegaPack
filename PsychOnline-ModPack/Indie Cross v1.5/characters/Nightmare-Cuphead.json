@@ -1,0 +1,149 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				-110
+			],
+			"loop": true,
+			"fps": 26,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle instance 1"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				-354
+			],
+			"anim": "shotting",
+			"fps": 26,
+			"name": "Beamm instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				29,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "big shot",
+			"indices": [],
+			"name": "Hadoken or Roundabout instance 1"
+		},
+		{
+			"offsets": [
+				101,
+				-217
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "Dodgez instance 1"
+		},
+		{
+			"offsets": [
+				101,
+				-216
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "dodge-loop",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			],
+			"name": "Dodgez instance 1"
+		},
+		{
+			"offsets": [
+				199,
+				-214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				46,
+				-185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				140,
+				-1
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				41,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				-187
+			],
+			"anim": "pewDOWN",
+			"fps": 24,
+			"name": "ShootDown instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cuphead/Nightmare_Cuphead",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nightmare-cuphead",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		22,
+		74
+	],
+	"camera_position": [
+		-150,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

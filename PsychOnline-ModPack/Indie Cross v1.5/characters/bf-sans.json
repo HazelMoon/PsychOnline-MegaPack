@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1087,
+				-9
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "0BF attack instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "R-Miss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "D-Miss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				111
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "U-Miss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				23
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "L-Miss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-2
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "OuchBonesinmyAss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans/BoyFriend_CRshader",
+	"position": [
+		-10,
+		353
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		580,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,9 @@
+Value 1: Zoom,Add
+you can use "cur" to use the current zoom and put a 
+value in Add,like this:
+cur,0.5
+is like: getProperty('defaultCamZoom') + Add
+if want to use a specific one, just put the number.
+Value 2: time,easing
+to put a easing, you have to write like that:
+0.5,quartOut

@@ -1,0 +1,138 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				16,
+				17,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "0Idle instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "0EEEE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-27
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "0Ouu instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				75
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "0UPPP instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "0EERR instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				97
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Ouch instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				56
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Ouch instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				116
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Ouch instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				97
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Ouch instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans/UT-BF",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-150,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

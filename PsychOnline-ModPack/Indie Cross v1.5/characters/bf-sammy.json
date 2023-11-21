@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-36
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				148
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "Ouch instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				25
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "L-Miss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				23
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "R-Miss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-16
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "D-Miss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				113
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "U-Miss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				16
+			],
+			"anim": "dodge",
+			"fps": 28,
+			"name": "Dodge instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BoyFriend_Sammy",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
