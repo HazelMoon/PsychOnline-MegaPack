@@ -5,11 +5,11 @@ An unoffical open-source modpack for [Psych Engine Online](https://github.com/Sn
 If you have a mod or mods you want added create a Pull Request and I will have a look and might accept.
 
 ## Installation
-Click on the green button that says code then click download zip. Extract the zip file and open the folder. Next drag PsychOnline-ModPack into your mods folder and enjoy.
+Click on the green button that says code then click download zip. Extract the zip file and open the folder. Next Open  PsychOnline-ModPack and drag the mods into your mods folder and enjoy.
 
 ## Credits
 
-### Original Mods
+### Preset Mods from SMB 
 
 * [Darnell Fake Leak](https://gamebanana.com/mods/387743) by EvilVaye, westy_yeehaw, fabrDX, mollyTov, HejjoDude, Mark_Zer0, dif and RojÃ³.
 
@@ -27,9 +27,31 @@ Click on the green button that says code then click download zip. Extract the zi
 
 * [Rainbow Tylenol](https://gamejolt.com/games/tylenol/661011) by LiterallyNoOne.
 
+### Packaged Mods
+
+* [ENTITY](https://gamebanana.com/mods/284934) by KayDotNet.
+
+* [Holiday 1 and 2](https://gamebanana.com/mods/344364) by Fluffyhairs and BBPanzu.
+
+* [Indie Cross v1.5](https://gamejolt.com/games/indiecross/643540) by MORØ Productions.
+
+* [Arcade Showdown](https://gamebanana.com/mods/44683) by Paper Kitty.
+
+* [Ourple V3](https://ourpleguy.neocities.org) by kiwiquest, headdzo, blackberri, and Cold_Vee.
+
+* [Sonic.exe 2.5](https://gamebanana.com/mods/387978) by DuskieWhy.
+
+* [vs Impostor V3 + V4](https://gamebanana.com/mods/55652) by Clowfoe and Impostorm.
+
+* [X-Event](https://gamebanana.com/mods/44385) by NyxTheShield.
+
+* [zardy](https://gamebanana.com/mods/44366) by SwankyBox.
+
 ### Modpack Creators
 
 * SMB-5 - Modpack Creator/Owner, Main Contributor.
+
+* HazelMoon - Porter, Second Contributer
 
 * galactic_2005 - Charting, Coding.
 
