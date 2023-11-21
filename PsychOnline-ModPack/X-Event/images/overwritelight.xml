@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="overwrite_light.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="overbg0000" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0001" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0002" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0003" x="1937" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0004" x="1937" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0005" x="3874" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0006" x="3874" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0007" x="0" y="1400" width="1937" height="1400"/>
+	<SubTexture name="overbg0008" x="0" y="1400" width="1937" height="1400"/>
+	<SubTexture name="overbg0009" x="0" y="1400" width="1937" height="1400"/>
+	<SubTexture name="overbg0010" x="1937" y="1400" width="1937" height="1400"/>
+	<SubTexture name="overbg0011" x="1937" y="1400" width="1937" height="1400"/>
+	<SubTexture name="overbg0012" x="1937" y="1400" width="1937" height="1400"/>
+	<SubTexture name="overbg0013" x="3874" y="1400" width="1937" height="1400"/>
+	<SubTexture name="overbg0014" x="3874" y="1400" width="1937" height="1400"/>
+	<SubTexture name="overbg0015" x="3874" y="1400" width="1937" height="1400"/>
+	<SubTexture name="overbg0016" x="1937" y="1400" width="1937" height="1400"/>
+	<SubTexture name="overbg0017" x="1937" y="1400" width="1937" height="1400"/>
+	<SubTexture name="overbg0018" x="0" y="1400" width="1937" height="1400"/>
+	<SubTexture name="overbg0019" x="0" y="1400" width="1937" height="1400"/>
+	<SubTexture name="overbg0020" x="3874" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0021" x="3874" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0022" x="3874" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0023" x="1937" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0024" x="1937" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0025" x="1937" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0026" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0027" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0028" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0029" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0030" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0031" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0032" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0033" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0034" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0035" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0036" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0037" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0038" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0039" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0040" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0041" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0042" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0043" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0044" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0045" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0046" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0047" x="0" y="0" width="1937" height="1400"/>
+	<SubTexture name="overbg0048" x="0" y="0" width="1937" height="1400"/>
+</TextureAtlas>

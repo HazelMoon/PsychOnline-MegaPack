@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg3.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg30000" x="0" y="0" width="2560" height="1280" frameX="-2" frameY="-45" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30001" x="0" y="0" width="2560" height="1280" frameX="-2" frameY="-45" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30002" x="0" y="0" width="2560" height="1280" frameX="-1" frameY="-40" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30003" x="0" y="0" width="2560" height="1280" frameX="-1" frameY="-40" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30004" x="0" y="0" width="2560" height="1280" frameX="-1" frameY="-37" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30005" x="0" y="0" width="2560" height="1280" frameX="-1" frameY="-37" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30006" x="0" y="0" width="2560" height="1280" frameX="-1" frameY="-34" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30007" x="0" y="0" width="2560" height="1280" frameX="-1" frameY="-34" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30008" x="0" y="0" width="2560" height="1280" frameX="-1" frameY="-32" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30009" x="0" y="0" width="2560" height="1280" frameX="-1" frameY="-32" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30010" x="0" y="0" width="2560" height="1280" frameX="-2" frameY="-29" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30011" x="0" y="0" width="2560" height="1280" frameX="-2" frameY="-29" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30012" x="0" y="0" width="2560" height="1280" frameX="-2" frameY="-27" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30013" x="0" y="0" width="2560" height="1280" frameX="-2" frameY="-27" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30014" x="0" y="0" width="2560" height="1280" frameX="-3" frameY="-24" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30015" x="0" y="0" width="2560" height="1280" frameX="-3" frameY="-24" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30016" x="0" y="0" width="2560" height="1280" frameX="-4" frameY="-20" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30017" x="0" y="0" width="2560" height="1280" frameX="-4" frameY="-20" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30018" x="0" y="0" width="2560" height="1280" frameX="-6" frameY="-14" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30019" x="0" y="0" width="2560" height="1280" frameX="-6" frameY="-14" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30020" x="0" y="0" width="2560" height="1280" frameX="-7" frameY="-11" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30021" x="0" y="0" width="2560" height="1280" frameX="-7" frameY="-11" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30022" x="0" y="0" width="2560" height="1280" frameX="-7" frameY="-6" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30023" x="0" y="0" width="2560" height="1280" frameX="-7" frameY="-6" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30024" x="0" y="0" width="2560" height="1280" frameX="-9" frameY="0" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30025" x="0" y="0" width="2560" height="1280" frameX="-9" frameY="0" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30026" x="0" y="0" width="2560" height="1280" frameX="-8" frameY="-5" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30027" x="0" y="0" width="2560" height="1280" frameX="-8" frameY="-5" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30028" x="0" y="0" width="2560" height="1280" frameX="-6" frameY="-8" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30029" x="0" y="0" width="2560" height="1280" frameX="-6" frameY="-8" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30030" x="0" y="0" width="2560" height="1280" frameX="-4" frameY="-12" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30031" x="0" y="0" width="2560" height="1280" frameX="-4" frameY="-12" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30032" x="0" y="0" width="2560" height="1280" frameX="0" frameY="-21" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30033" x="0" y="0" width="2560" height="1280" frameX="0" frameY="-21" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30034" x="0" y="0" width="2560" height="1280" frameX="-2" frameY="-29" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30035" x="0" y="0" width="2560" height="1280" frameX="-2" frameY="-29" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30036" x="0" y="0" width="2560" height="1280" frameX="-1" frameY="-36" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30037" x="0" y="0" width="2560" height="1280" frameX="-1" frameY="-36" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30038" x="0" y="0" width="2560" height="1280" frameX="-2" frameY="-41" frameWidth="2569" frameHeight="1325"/>
+	<SubTexture name="bg30039" x="0" y="0" width="2560" height="1280" frameX="-2" frameY="-41" frameWidth="2569" frameHeight="1325"/>
+</TextureAtlas>

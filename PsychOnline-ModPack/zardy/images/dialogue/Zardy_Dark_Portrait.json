@@ -1,0 +1,19 @@
+{
+	"position": [
+		-230,
+		30
+	],
+	"dialogue_pos": "center",
+	"scale": 1.25,
+	"image": "Zardy_Dark_Portrait",
+	"animations": [
+		{
+			"idle_name": "ZardMan",
+			"idle_offsets": [
+				-100,
+				-40
+			],
+			"anim": "talk"
+		}
+	]
+}

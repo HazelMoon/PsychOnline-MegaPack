@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="black.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DOWN0000" x="0" y="0" width="726" height="673" frameX="0" frameY="0" frameWidth="726" frameHeight="762"/>
+	<SubTexture name="DOWN0001" x="726" y="0" width="711" height="649" frameX="-10" frameY="-24" frameWidth="726" frameHeight="762"/>
+	<SubTexture name="DOWN0002" x="1437" y="0" width="672" height="632" frameX="-43" frameY="-40" frameWidth="726" frameHeight="762"/>
+	<SubTexture name="DOWN0003" x="2109" y="0" width="651" height="616" frameX="-66" frameY="-57" frameWidth="726" frameHeight="762"/>
+	<SubTexture name="DOWN0004" x="2760" y="0" width="613" height="743" frameX="-89" frameY="-19" frameWidth="726" frameHeight="762"/>
+	<SubTexture name="SUS ARRIBA0000" x="0" y="770" width="916" height="800" frameX="-58" frameY="0" frameWidth="1140" frameHeight="800"/>
+	<SubTexture name="SUS ARRIBA0001" x="920" y="770" width="1078" height="692" frameX="-50" frameY="-108" frameWidth="1140" frameHeight="800"/>
+	<SubTexture name="SUS ARRIBA0002" x="1970" y="770" width="1101" height="633" frameX="-39" frameY="-164" frameWidth="1140" frameHeight="800"/>
+	<SubTexture name="SUS ARRIBA0003" x="3060" y="770" width="941" height="619" frameX="0" frameY="-178" frameWidth="1140" frameHeight="800"/>
+	<SubTexture name="SUS ARRIBA0004" x="0" y="1650" width="920" height="573" frameX="-11" frameY="-224" frameWidth="1140" frameHeight="800"/>
+	<SubTexture name="derecha0000" x="1020" y="1650" width="655" height="643" frameX="-55" frameY="-42" frameWidth="718" frameHeight="685"/>
+	<SubTexture name="derecha0001" x="1700" y="1650" width="611" height="675" frameX="-102" frameY="-10" frameWidth="718" frameHeight="685"/>
+	<SubTexture name="derecha0002" x="2340" y="1650" width="595" height="675" frameX="-123" frameY="-10" frameWidth="718" frameHeight="685"/>
+	<SubTexture name="derecha0003" x="2940" y="1650" width="615" height="675" frameX="-86" frameY="-10" frameWidth="718" frameHeight="685"/>
+	<SubTexture name="derecha0004" x="0" y="2270" width="638" height="685" frameX="0" frameY="0" frameWidth="718" frameHeight="685"/>
+	<SubTexture name="izquierda0000" x="660" y="2320" width="877" height="698" frameX="-65" frameY="-8" frameWidth="942" frameHeight="706"/>
+	<SubTexture name="izquierda0001" x="1550" y="2330" width="882" height="706" frameX="-38" frameY="0" frameWidth="942" frameHeight="706"/>
+	<SubTexture name="izquierda0002" x="2450" y="2350" width="895" height="694" frameX="-5" frameY="-12" frameWidth="942" frameHeight="706"/>
+	<SubTexture name="izquierda0003" x="0" y="3070" width="894" height="678" frameX="0" frameY="-28" frameWidth="942" frameHeight="706"/>
+	<SubTexture name="izquierda0004" x="920" y="3070" width="852" height="661" frameX="-80" frameY="-45" frameWidth="942" frameHeight="706"/>
+	<SubTexture name="sus idle0000" x="1820" y="3070" width="838" height="682" frameX="-55" frameY="-12" frameWidth="895" frameHeight="697"/>
+	<SubTexture name="sus idle0001" x="2720" y="3070" width="892" height="694" frameX="-2" frameY="0" frameWidth="895" frameHeight="697"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+{
+	"storyName": "The Sequel!!!",
+	"hideFreeplay": false,
+	"weekBackground": "Sequel",
+	"weekBefore": "Zardy1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"CableCrow",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Bushwhack",
+			"zardyButDARK",
+			[
+				46,
+				30,
+				16
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Zardy2"
+}

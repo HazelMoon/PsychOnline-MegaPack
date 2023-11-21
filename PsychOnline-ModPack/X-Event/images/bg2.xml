@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg2.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg20000" x="0" y="0" width="2560" height="1280" frameX="0" frameY="-6" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20001" x="0" y="0" width="2560" height="1280" frameX="0" frameY="-6" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20002" x="0" y="0" width="2560" height="1280" frameX="-1" frameY="-5" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20003" x="0" y="0" width="2560" height="1280" frameX="-1" frameY="-5" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20004" x="0" y="0" width="2560" height="1280" frameX="-2" frameY="-4" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20005" x="0" y="0" width="2560" height="1280" frameX="-2" frameY="-4" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20006" x="0" y="0" width="2560" height="1280" frameX="-3" frameY="-4" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20007" x="0" y="0" width="2560" height="1280" frameX="-3" frameY="-4" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20008" x="0" y="0" width="2560" height="1280" frameX="-6" frameY="-3" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20009" x="0" y="0" width="2560" height="1280" frameX="-6" frameY="-3" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20010" x="0" y="0" width="2560" height="1280" frameX="-6" frameY="-2" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20011" x="0" y="0" width="2560" height="1280" frameX="-6" frameY="-2" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20012" x="0" y="0" width="2560" height="1280" frameX="-7" frameY="-1" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20013" x="0" y="0" width="2560" height="1280" frameX="-7" frameY="-1" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20014" x="0" y="0" width="2560" height="1280" frameX="-8" frameY="-1" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20015" x="0" y="0" width="2560" height="1280" frameX="-8" frameY="-1" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20016" x="0" y="0" width="2560" height="1280" frameX="-9" frameY="0" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20017" x="0" y="0" width="2560" height="1280" frameX="-9" frameY="0" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20018" x="0" y="0" width="2560" height="1280" frameX="-6" frameY="-2" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20019" x="0" y="0" width="2560" height="1280" frameX="-6" frameY="-2" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20020" x="0" y="0" width="2560" height="1280" frameX="-3" frameY="-3" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20021" x="0" y="0" width="2560" height="1280" frameX="-3" frameY="-3" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20022" x="0" y="0" width="2560" height="1280" frameX="-2" frameY="-5" frameWidth="2569" frameHeight="1286"/>
+	<SubTexture name="bg20023" x="0" y="0" width="2560" height="1280" frameX="-2" frameY="-5" frameWidth="2569" frameHeight="1286"/>
+</TextureAtlas>

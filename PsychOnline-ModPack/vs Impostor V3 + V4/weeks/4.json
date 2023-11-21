@@ -1,0 +1,30 @@
+{
+	"storyName": "???",
+	"hideFreeplay": true,
+	"weekBackground": "defeat",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"boyfriend_color",
+		""
+	],
+	"songs": [
+		[
+			"defeat",
+			"black",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Defeat week"
+}

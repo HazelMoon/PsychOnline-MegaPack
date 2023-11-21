@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "Oh… Silly boy! It’s you again!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zardy_dark_portrait"
+		},
+		{
+			"expression": "normal",
+			"text": "You shouldn’t have come here... I warned you before that it’s dangerous to wander in the dark.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zardy_dark_portrait"
+		},
+		{
+			"expression": "normal",
+			"text": "And yet you walked straight towards the center of the darkness. A foolhardy move, boy.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zardy_dark_portrait"
+		},
+		{
+			"expression": "normal",
+			"text": "But bravery has a funny way of betraying people… There’s a big difference between you and I.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zardy_dark_portrait"
+		},
+		{
+			"expression": "normal",
+			"text": "The dark makes your world small. It devours your senses and puts you on edge…",
+			"boxState": "normal",
+			"portrait": "zardy_dark_portrait",
+			"speed": 0.05
+		},
+		{
+			"expression": "normal",
+			"text": "But to us? Well... Let’s just say you couldn’t have walked into a worse situation.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zardy_dark_portrait"
+		},
+		{
+			"expression": "normal",
+			"text": "Your story ends here.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zardy_dark_portrait"
+		}
+	]
+}

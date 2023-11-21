@@ -1,0 +1,25 @@
+{
+	"storyName": "Zardy's Maze",
+	"hideFreeplay": false,
+	"weekBackground": "Zardy",
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Zardy",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"foolhardy",
+			"zardyMyBeloved",
+			[
+				186,
+				123,
+				66
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Zardy1"
+}

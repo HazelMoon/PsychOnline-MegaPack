@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="XGASTER.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GASTERDOWN0000" x="0" y="0" width="722" height="847" frameX="0" frameY="0" frameWidth="725" frameHeight="876"/>
+	<SubTexture name="GASTERDOWN0001" x="722" y="0" width="707" height="860" frameX="0" frameY="0" frameWidth="725" frameHeight="876"/>
+	<SubTexture name="GASTERDOWN0002" x="1429" y="0" width="707" height="872" frameX="0" frameY="0" frameWidth="725" frameHeight="876"/>
+	<SubTexture name="GASTERDOWN0003" x="2136" y="0" width="708" height="875" frameX="0" frameY="0" frameWidth="725" frameHeight="876"/>
+	<SubTexture name="GASTERDOWN0004" x="2844" y="0" width="717" height="876" frameX="0" frameY="0" frameWidth="725" frameHeight="876"/>
+	<SubTexture name="GASTERDOWN0005" x="3561" y="0" width="722" height="876" frameX="0" frameY="0" frameWidth="725" frameHeight="876"/>
+	<SubTexture name="GASTERDOWN0006" x="4283" y="0" width="725" height="860" frameX="0" frameY="0" frameWidth="725" frameHeight="876"/>
+	<SubTexture name="GASTERDOWN0007" x="5008" y="0" width="711" height="861" frameX="0" frameY="0" frameWidth="725" frameHeight="876"/>
+	<SubTexture name="GASTERDOWN0008" x="5719" y="0" width="706" height="863" frameX="0" frameY="0" frameWidth="725" frameHeight="876"/>
+	<SubTexture name="GASTERDOWN0009" x="6425" y="0" width="717" height="875" frameX="0" frameY="0" frameWidth="725" frameHeight="876"/>
+	<SubTexture name="GASTERIDLE0000" x="0" y="876" width="716" height="880" frameX="-17" frameY="0" frameWidth="736" frameHeight="882"/>
+	<SubTexture name="GASTERIDLE0001" x="716" y="876" width="710" height="881" frameX="-17" frameY="0" frameWidth="736" frameHeight="882"/>
+	<SubTexture name="GASTERIDLE0002" x="1426" y="876" width="710" height="882" frameX="-17" frameY="0" frameWidth="736" frameHeight="882"/>
+	<SubTexture name="GASTERIDLE0003" x="2136" y="876" width="711" height="882" frameX="-17" frameY="0" frameWidth="736" frameHeight="882"/>
+	<SubTexture name="GASTERIDLE0004" x="2847" y="876" width="722" height="881" frameX="-3" frameY="0" frameWidth="736" frameHeight="882"/>
+	<SubTexture name="GASTERIDLE0005" x="3569" y="876" width="722" height="867" frameX="0" frameY="0" frameWidth="736" frameHeight="882"/>
+	<SubTexture name="GASTERIDLE0006" x="4291" y="876" width="727" height="871" frameX="-3" frameY="0" frameWidth="736" frameHeight="882"/>
+	<SubTexture name="GASTERIDLE0007" x="5018" y="876" width="727" height="871" frameX="-4" frameY="0" frameWidth="736" frameHeight="882"/>
+	<SubTexture name="GASTERIDLE0008" x="5745" y="876" width="730" height="858" frameX="-6" frameY="0" frameWidth="736" frameHeight="882"/>
+	<SubTexture name="GASTERIDLE0009" x="6475" y="876" width="716" height="861" frameX="-17" frameY="0" frameWidth="736" frameHeight="882"/>
+	<SubTexture name="GASTERIGHT0000" x="0" y="1758" width="694" height="903"/>
+	<SubTexture name="GASTERIGHT0001" x="694" y="1758" width="682" height="898" frameX="0" frameY="0" frameWidth="694" frameHeight="903"/>
+	<SubTexture name="GASTERIGHT0002" x="1376" y="1758" width="686" height="902" frameX="0" frameY="0" frameWidth="694" frameHeight="903"/>
+	<SubTexture name="GASTERIGHT0003" x="2062" y="1758" width="685" height="902" frameX="0" frameY="0" frameWidth="694" frameHeight="903"/>
+	<SubTexture name="GASTERIGHT0004" x="2747" y="1758" width="684" height="895" frameX="0" frameY="0" frameWidth="694" frameHeight="903"/>
+	<SubTexture name="GASTERIGHT0005" x="3431" y="1758" width="679" height="898" frameX="0" frameY="0" frameWidth="694" frameHeight="903"/>
+	<SubTexture name="GASTERIGHT0006" x="4110" y="1758" width="679" height="895" frameX="0" frameY="0" frameWidth="694" frameHeight="903"/>
+	<SubTexture name="GASTERIGHT0007" x="4789" y="1758" width="692" height="893" frameX="0" frameY="0" frameWidth="694" frameHeight="903"/>
+	<SubTexture name="GASTERIGHT0008" x="5481" y="1758" width="679" height="903" frameX="0" frameY="0" frameWidth="694" frameHeight="903"/>
+	<SubTexture name="GASTERLEFT0000" x="6160" y="1758" width="620" height="894"/>
+	<SubTexture name="GASTERLEFT0001" x="0" y="2661" width="596" height="886" frameX="0" frameY="0" frameWidth="620" frameHeight="894"/>
+	<SubTexture name="GASTERLEFT0002" x="596" y="2661" width="597" height="892" frameX="0" frameY="0" frameWidth="620" frameHeight="894"/>
+	<SubTexture name="GASTERLEFT0003" x="1193" y="2661" width="591" height="888" frameX="0" frameY="0" frameWidth="620" frameHeight="894"/>
+	<SubTexture name="GASTERLEFT0004" x="1784" y="2661" width="601" height="885" frameX="0" frameY="0" frameWidth="620" frameHeight="894"/>
+	<SubTexture name="GASTERLEFT0005" x="2385" y="2661" width="596" height="888" frameX="0" frameY="0" frameWidth="620" frameHeight="894"/>
+	<SubTexture name="GASTERLEFT0006" x="2981" y="2661" width="596" height="886" frameX="0" frameY="0" frameWidth="620" frameHeight="894"/>
+	<SubTexture name="GASTERLEFT0007" x="3577" y="2661" width="602" height="886" frameX="0" frameY="0" frameWidth="620" frameHeight="894"/>
+	<SubTexture name="GASTERLEFT0008" x="4179" y="2661" width="601" height="885" frameX="0" frameY="0" frameWidth="620" frameHeight="894"/>
+	<SubTexture name="GASTERLEFT0009" x="4780" y="2661" width="597" height="892" frameX="0" frameY="0" frameWidth="620" frameHeight="894"/>
+	<SubTexture name="GASTERLEFT0010" x="5377" y="2661" width="602" height="884" frameX="0" frameY="0" frameWidth="620" frameHeight="894"/>
+	<SubTexture name="GASTERUP0000" x="5979" y="2661" width="653" height="900" frameX="0" frameY="0" frameWidth="682" frameHeight="900"/>
+	<SubTexture name="GASTERUP0001" x="0" y="3561" width="660" height="892" frameX="0" frameY="0" frameWidth="682" frameHeight="900"/>
+	<SubTexture name="GASTERUP0002" x="660" y="3561" width="674" height="889" frameX="0" frameY="0" frameWidth="682" frameHeight="900"/>
+	<SubTexture name="GASTERUP0003" x="1334" y="3561" width="682" height="870" frameX="0" frameY="0" frameWidth="682" frameHeight="900"/>
+	<SubTexture name="GASTERUP0004" x="2016" y="3561" width="668" height="868" frameX="0" frameY="0" frameWidth="682" frameHeight="900"/>
+	<SubTexture name="GASTERUP0005" x="2684" y="3561" width="664" height="890" frameX="0" frameY="0" frameWidth="682" frameHeight="900"/>
+	<SubTexture name="GASTERUP0006" x="3348" y="3561" width="674" height="888" frameX="0" frameY="0" frameWidth="682" frameHeight="900"/>
+</TextureAtlas>

@@ -1,0 +1,48 @@
+{
+	"storyName": "die bitch",
+	"hideFreeplay": false,
+	"weekBackground": "polus",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"impostor",
+		"boyfriend_color",
+		"GF_color"
+	],
+	"songs": [
+		[
+			"sussus moogus",
+			"impostor",
+			[
+				195,
+				0,
+				0
+			]
+		],
+		[
+			"sabotage",
+			"impostor",
+			[
+				195,
+				0,
+				0
+			]
+		],
+		[
+			"meltdown",
+			"impostor",
+			[
+				195,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Polus week"
+}

@@ -1,0 +1,115 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "green cremation reveal",
+			"idle_offsets": [
+				-120,
+				-127
+			],
+			"idle_name": "green cremation revealstop",
+			"anim": "reveal",
+			"loop_offsets": [
+				-120,
+				-127
+			]
+		},
+		{
+			"loop_name": "green crewmate happy",
+			"idle_offsets": [
+				-120,
+				-127
+			],
+			"idle_name": "green crewmate happystpo",
+			"anim": "c happy",
+			"loop_offsets": [
+				-120,
+				-127
+			]
+		},
+		{
+			"loop_name": "green crewmate nervous",
+			"idle_offsets": [
+				-120,
+				-127
+			],
+			"idle_name": "green crewmate nervousstop",
+			"anim": "c nervous",
+			"loop_offsets": [
+				-120,
+				-127
+			]
+		},
+		{
+			"loop_name": "green crewmate smile",
+			"idle_offsets": [
+				-120,
+				-127
+			],
+			"idle_name": "green crewmate smilestop",
+			"anim": "c smile",
+			"loop_offsets": [
+				-120,
+				-127
+			]
+		},
+		{
+			"loop_name": "green imposor evilous",
+			"idle_offsets": [
+				-90,
+				-117
+			],
+			"idle_name": "green imposor evilousstop",
+			"anim": "i lows",
+			"loop_offsets": [
+				-90,
+				-117
+			]
+		},
+		{
+			"loop_name": "green impostor angry",
+			"idle_offsets": [
+				-120,
+				-127
+			],
+			"idle_name": "green impostor angrystop",
+			"anim": "i angry",
+			"loop_offsets": [
+				-120,
+				-127
+			]
+		},
+		{
+			"loop_name": "green impoters neutral",
+			"idle_offsets": [
+				-120,
+				-127
+			],
+			"idle_name": "green impoters neutralstop",
+			"anim": "i newtral",
+			"loop_offsets": [
+				-120,
+				-127
+			]
+		},
+		{
+			"loop_name": "greenimportor happy",
+			"idle_offsets": [
+				-120,
+				-123
+			],
+			"idle_name": "greenimportor happystop",
+			"anim": "i happy",
+			"loop_offsets": [
+				-120,
+				-123
+			]
+		}
+	],
+	"image": "green"
+}
