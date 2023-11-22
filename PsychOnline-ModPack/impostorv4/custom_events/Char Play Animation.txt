@@ -1,0 +1,12 @@
+Plays an animation on your Character,
+once the animation is completed,
+the animation changes to Idle. 
+
+Value 1: Animation to play.
+
+Value 2: Character to play the animation (The same name
+         that you put on your character script.
+         Example: charName = 'pico'
+         so you will put "pico" without the quotes
+         on the value 2)
+         

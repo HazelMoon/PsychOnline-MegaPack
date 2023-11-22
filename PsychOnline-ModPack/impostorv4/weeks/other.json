@@ -1,0 +1,31 @@
+{
+	"storyName": "Extra-er Moogus",
+	"hideFreeplay": false,
+	"weekBackground": "tutorial",
+	"difficulties": "Normal, Hard",
+	"weekBefore": "extraMoogus",
+	"freeplayColor": [
+		199,
+		94,
+		82
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Sauces Moogus",
+			"chef",
+			[
+                199,
+                94,
+                82
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "extraMoogus2"
+}

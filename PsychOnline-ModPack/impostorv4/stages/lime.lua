@@ -1,0 +1,10 @@
+function onCreate()
+    makeAnimatedLuaSprite('o2', 'limegreen/O2Background', 5, -7.5)
+    -- scaleObject('o2', 0.99, 0.99)
+    addLuaSprite('o2')
+    makeAnimatedLuaSprite('ventilation', 'limegreen/fansss', 433, 256)
+    addAnimationByPrefix('ventilation', 'idle', 'fansss instance 1')
+    addLuaSprite('ventilation')
+    makeLuaSprite('hatch', 'limegreen/switch', 146, 498)
+    addLuaSprite('hatch')
+end

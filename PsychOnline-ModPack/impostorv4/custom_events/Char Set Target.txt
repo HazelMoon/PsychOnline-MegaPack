@@ -1,0 +1,10 @@
+Set the camera target in any character.
+
+value 1: Character to set. exemple: on the script you put
+         on the value "charName = pico1" so you will put 
+        "pico1" on the value 1 without the quotes. (you can 
+         make this focus on boyfriend, dad or gf too)
+
+value 2: Characte Group. (can be 'boyfriendGroup', 
+         'dadGroup or 'gfGroup')
+          

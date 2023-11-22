@@ -1,0 +1,7 @@
+Value 1: Character to set 
+         (The same name that you put on your character script
+          Example: charName = 'pico'
+          so you will put "pico" without the quotes
+          on the value 1)
+
+Value 2: New suffix (exemple "-alt") (Leave it blank to disable)

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="gf_parachute.png">
-	<!-- Created with Adobe Animate version 21.0.7.42652 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="GF Dancing Beat0000" x="0" y="0" width="920" height="476"/> frameX="0" frameY="-5" frameWidth="920" frameHeight="476"/>
-	<SubTexture name="GF Dancing Beat0001" x="920" y="0" width="920" height="476"/> frameX="0" frameY="-5" frameWidth="920" frameHeight="476"/>
-	<SubTexture name="GF Dancing Beat0002" x="0" y="476" width="920" height="468" frameX="0" frameY="-5" frameWidth="920" frameHeight="478"/>
-	<SubTexture name="GF Dancing Beat0019" x="0" y="476" width="920" height="468" frameX="0" frameY="-5" frameWidth="920" frameHeight="478"/>
-</TextureAtlas>
