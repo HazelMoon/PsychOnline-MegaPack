@@ -9,7 +9,7 @@ Click on the green button that says code then click download zip. Extract the zi
 
 ## Credits
 
-### Preset Mods from SMB 
+### Preset Mods from [SMB](https://github.com/SMB-5/PsychOnline-ModPack) 
 
 * [Darnell Fake Leak](https://gamebanana.com/mods/387743) by EvilVaye, westy_yeehaw, fabrDX, mollyTov, HejjoDude, Mark_Zer0, dif and RojÃ³.
 
